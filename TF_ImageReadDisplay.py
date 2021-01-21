@@ -1,5 +1,4 @@
 import tensorflow as tf
-import tensorflow as tfio
 import matplotlib.pyplot as plt
 import cv2
 
